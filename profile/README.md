@@ -86,4 +86,4 @@ graph TD
 pip install synesis synesis-lsp
 ```
 
-Install the [VS Code extension](https://github.com/synesis-lang/synesis-explorer/releases) and the [Zotero plugin](https://github.com/synesis-lang/zotero-synesis-export/releases). Full documentation at **[synesis-lang.github.io](https://synesis-lang.github.io)**.
+Then install the [Synesis Explorer VS Code extension](https://github.com/synesis-lang/synesis-explorer/releases). Optionally, add the [Zotero plugin](https://github.com/synesis-lang/zotero-synesis-export/releases) to export PDF annotations directly to `.syn`. Full documentation at **[synesis-lang.github.io](https://synesis-lang.github.io)**.
